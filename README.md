@@ -7,9 +7,11 @@ There are some hardcoded stories included. I need to add functionality to add yo
 Prerequisites
 -
 
-mpg321 - from apt-get
-mypg321 - from pip3
-gtts - from pip3
+from sudo apt-get:
+ mpg321
+from pip3:
+ mpyg321
+ gtts
 
 TODO
 -
